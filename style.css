@@ -1,6 +1,27 @@
 .grid {
     display: flex;
     flex-wrap: wrap;
-    width: 400px;
-    height: 300px;
+    width: 300px;
+    height: 200px;
+    text-align: center;
+    
   }
+
+  img {
+    max-width: 200px;
+    max-height: 200px;
+  }
+
+body {
+    background-color: rgb(70, 105, 105);
+    color: white
+}
+
+h1 { 
+    color: white;
+
+}
+
+#result {
+    color: white
+}
