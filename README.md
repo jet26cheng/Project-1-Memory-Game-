@@ -9,7 +9,7 @@ The point of this game is you want to be able to match a card with the same card
 
 You want to click on one card and then after click on another card. 
 
-If the cards match together they will stay on the field and you can flip another seet of cards. 
+If the cards match together they will stay on the field and you can flip another set of cards. 
 
 You win once all the cards on the field are flipped over!
 
@@ -22,4 +22,5 @@ This will be the win screen you are looking for when you win!
 <img width="1559" alt="Screenshot 2022-11-21 at 9 21 38 AM" src="https://user-images.githubusercontent.com/105845188/203120171-0365e6d1-10f5-409f-b194-5befbb940d7f.png">
 
 
+Goodluck and have fun!! 
 
